@@ -1,1 +1,7 @@
-console.log('jmenuji se Petra, je mi 34 let, vážím 65 kg, měřím 1.67 a moje BMI je 23.2.');
+
+let jmeno = 'Petra';
+let vek = 34;
+let vyska = 1.67;
+let vaha = 65;
+let bmni = vaha / (vyska * vyska);
+console.log ("Jmenuji se " + jmeno + ", je mi"+ vek +"let, vážím"+ vaha+"kg, měřím"+ vyska + "moje BMI je"+ bmi);
